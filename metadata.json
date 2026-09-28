@@ -1,0 +1,6 @@
+{
+  "name": "SmartSample – College Student Analytics & Statistical Estimation Platform",
+  "description": "An interactive statistical platform for exploring sampling, sampling distributions, Central Limit Theorem, and statistical estimation using simulated college student data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
